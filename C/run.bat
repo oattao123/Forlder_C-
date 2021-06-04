@@ -1,2 +1,2 @@
-g++ -g coding.c
+g++ -g C+.cpp
 a.exe
